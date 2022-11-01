@@ -7,7 +7,7 @@ import json
 
 #Variables
 ipServidor = "0.0.0.0" #es lo mismo que "localhost" o "0.0.0.0"
-puertoServidor = 6000
+puertoServidor = 5000
 BUFFER_SIZE = 1000
 
 #Creando Cliente
